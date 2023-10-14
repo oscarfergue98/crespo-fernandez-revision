@@ -1,4 +1,4 @@
-# crespo-fernandez-revision
+# Crespo, Fernandez (2023) - R&R at Economic Modelling
 
 This repository contains all the code and data files used to produce the results for the first revision of the paper "Explaining Long-Term Bond Yields Synchronization Dynamics in Europe" at the journal **Economic Modelling**. The repository contains the following files and folders: 
 
