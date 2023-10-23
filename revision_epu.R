@@ -20,7 +20,7 @@ n.iter = 1e7
 
 # Read the dataset, set WD #
 
-data_path = "../bma_data"
+data_path = "data"
 
 fulldata = read_excel(file.path(data_path, "synch_levels.xlsx"))
 
