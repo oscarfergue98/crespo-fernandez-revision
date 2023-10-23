@@ -6,7 +6,7 @@ print(start.time)
 
 # Create data path 
 
-data_path = "../bma_data"
+data_path = "data"
 set.seed(14091998)
 # Select number of iterations and burn-in phases 
 
