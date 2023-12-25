@@ -17,7 +17,7 @@ This repository contains all the code and data files used to produce the results
 
 3. **plots**: this folder contains contains all the plots in .eps format produced for the revision.
 
-4. **main_code.R**: this .R file contains all the code generated to reproduce the vast majority of results to answer to the referee comments 
+4. **main_code.R**: this .R file contains all the code generated to reproduce the vast majority of results to answer to the referee comments related to the tables of the paper. More specifically, this code produces Table 3, Table A.3, and Table A.5, which are reconsiderations of the original tables after addressing referees comments.  
 
 5. **revision_cds.R**: this .R file contains all the code generated to reproduce results to answer to Reviewer's 1 Comment 4 (adding CDS as an additional variable in our BMA models)
 
